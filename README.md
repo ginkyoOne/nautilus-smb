@@ -16,5 +16,5 @@ Mount item in the context Menu:
 Main screen to mount the share:  
 ![Mount Screen](https://raw.githubusercontent.com/ginkyoOne/nautilus-smb/main/screenshots/02.png)
 
-Unmount item in the context Menu:
+Unmount item in the context Menu:  
 ![Unmount Item](https://raw.githubusercontent.com/ginkyoOne/nautilus-smb/main/screenshots/03.png)
