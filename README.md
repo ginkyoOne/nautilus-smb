@@ -10,7 +10,7 @@
 
 The project is a plugin for Gnome Nautilus that allows users to conveniently mount SMB shares into local folders. It utilizes GTK 4 and provides a seamless experience to open remote files in SMB shares as if they were local files.
 
-Please note that this is an alpha version of the plugin. While we have put in our best effort to ensure its functionality, there might be some bugs and errors present. We kindly request users to report any issues they encounter to help us improve the plugin.
+Please note that this is an alpha version of the plugin. While i have put in my best effort to ensure its functionality, there might be some bugs and errors present. I kindly request to report any issues encounter to help improve the plugin.
 
 ## Features
 
