@@ -1,9 +1,9 @@
 # nautilus-smb
 ![  NAUTILUS SMB Logo](https://raw.githubusercontent.com/ginkyoOne/nautilus-smb/main/nautilus-smb.png)
 
-![PYTHON](https://img.shields.io/badge/Pyhton-FFA500?style=flat&logo=python&logoColor=white)
-![GTK](https://img.shields.io/badge/GTK-03C75A?style=flat&logo=gtk&logoColor=white)
-![GNOME](https://img.shields.io/badge/Gnome_44-%230b49c2?style=flat&logo=gnome&logoColor=white)
+![PYTHON](https://img.shields.io/badge/Pyhton-FFA500?style=for-the-badge&logo=python&logoColor=white)
+![GTK](https://img.shields.io/badge/GTK-03C75A?style=for-the-badge&logo=gtk&logoColor=white)
+![GNOME](https://img.shields.io/badge/Gnome_44-%230b49c2?style=for-the-badge&logo=gnome&logoColor=white)
 
  
 ## Description
