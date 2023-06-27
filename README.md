@@ -1,6 +1,11 @@
 # nautilus-smb
 ![  NAUTILUS SMB Logo](https://raw.githubusercontent.com/ginkyoOne/nautilus-smb/main/nautilus-smb.png)
 
+![PYTHON](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![GTK](https://img.shields.io/badge/GTK4-57e389?style=for%20the%20badge&logo=gtk)
+![GNOME](https://img.shields.io/badge/Gnome_44-%230b49c2?style=for%20the%20badge&logo=gnome)
+
+ 
 ## Description
 
 The project is a plugin for Gnome Nautilus that allows users to conveniently mount SMB shares into local folders. It utilizes GTK 4 and provides a seamless experience to open remote files in SMB shares as if they were local files.
