@@ -15,11 +15,19 @@ Please note that this is an alpha version of the plugin. While we have put in ou
 
 ## Installation
 
-1. Install python: `sudo dnf install python3`
-2. Install the required dependencies: `pip install -r requirements.txt`
-3. Install Nautilus Python: `sudo dnf install nautilus-extensions git python3 python-requests nautilus-python python3-gobject`
-4. Copy the plugin into: `~/.local/share/nautilus-python/extensions`
-5. Restart Gnome Nautilus: `nautilus -q`
+1. Clone the GitHub repository: `git clone https://github.com/ginkyoOne/nautilus-smb`
+2. Enter the folder: `cd nautilus-smb`
+3. Install Nautilus Python: 
+    - Fedora: `sudo dnf install nautilus-extensions git python3 python-requests nautilus-python python3-gobject`
+    - Ubuntu: `sudo apt-get install nautilus-extensions git python3 python3-requests python3-nautilus python3-gi`
+    - openSUSE: `sudo zypper install nautilus-extensions git python3 python3-requests python3-nautilus python3-gobject`
+    - Arch Linux: `sudo pacman -S nautilus-extensions git python3 python-requests python-nautilus python-gobject`
+   
+
+
+5. Install the required dependencies: `pip install -r requirements.txt`
+6. Install plugin: `sudo install --mode=644 nautilus-mounts.py /usr/share/nautilus-python/extensions/`
+7. Restart Gnome Nautilus: `nautilus -q`
 
 ## Usage
 
@@ -34,10 +42,6 @@ Please note that this is an alpha version of the plugin. While we have put in ou
 
 If you encounter any bugs, errors, or have suggestions for improvements, please [create an issue](https://github.com/ginkyoOne/nautilus-smb/issues) on the GitHub repository.
 
-## License
-
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
-
 
 ## Screenshots
 
@@ -49,3 +53,8 @@ Main screen to mount the share:
 
 Unmount item in the context Menu:  
 ![Unmount Item](https://raw.githubusercontent.com/ginkyoOne/nautilus-smb/main/screenshots/03.png)
+
+
+## License
+
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
