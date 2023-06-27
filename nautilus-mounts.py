@@ -332,4 +332,3 @@ class SmbMountMenuProvider(GObject.GObject, Nautilus.MenuProvider):
         except Exception as e:
             error_msg = f"An error occurred: {str(e)}"
             self.show_message_dialog(error_msg, Gtk.MessageType.ERROR)
-            https://github.com/ginkyoOne/nautilus-smb/blob/main/README.md
