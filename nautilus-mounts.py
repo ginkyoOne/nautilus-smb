@@ -1,3 +1,4 @@
+#Alpha version 1.0.0
 from gi import require_version
 
 require_version('Nautilus', '4.0')
