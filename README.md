@@ -17,7 +17,7 @@ Please note that this is an alpha version of the plugin. While we have put in ou
 
 1. Install python: `sudo dnf install python3`
 2. Install the required dependencies: `pip install -r requirements.txt`
-3. Install Nautilus Python: `sudo dnf install  nautilus-python`
+3. Install Nautilus Python: `sudo dnf install nautilus-extensions git python3 python-requests nautilus-python python3-gobject`
 4. Copy the plugin into: `~/.local/share/nautilus-python/extensions`
 5. Restart Gnome Nautilus: `nautilus -q`
 
